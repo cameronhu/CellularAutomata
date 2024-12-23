@@ -1,7 +1,4 @@
-# 274b-final
-Cellular Automata Software Library
-
-# Library Overview
+# Cellular Automata Software Library
 
 The CA library is built on two main classes: `Cell` and `CA`. 
 
